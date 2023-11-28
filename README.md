@@ -2,9 +2,10 @@
 
 ## Introduction
 
-Mrs.ME是一个使用ChatGPT API在IOS/MacOS的Shortcut上搭建的可拓展性语音助手。此储存库包含我们现在发行的所有应用，以及下载和使用方式。
+Mrs.ME is an extensible voice assistant built on the ChatGPT API in Shortcut for IOS/MacOS. This repository contains all the apps we currently release, as well as download and usage instructions.
 
 ## Why Mrs.ME？
 
-- 比Siri更好的语义理解能力，帮助你完成更加复杂的任务。
-- 更加定制化，完成你自定义的语音助手命令。
+- Better semantic understanding ability than Siri, helping you complete more complex tasks.
+- More customized, complete your custom voice assistant commands.
+
