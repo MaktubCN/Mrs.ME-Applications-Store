@@ -23,5 +23,6 @@ Mrs.ME is an extensible voice assistant built on the ChatGPT API in Shortcut for
 
 ![FILESETTING](images/FILESETTING.png)
 
+## Development
 
-
+If you want to develop, you only need to make simple modifications to our [APP Template](https://www.icloud.com/shortcuts/1121a499aba24f6588d0c68a16e0b68c).
